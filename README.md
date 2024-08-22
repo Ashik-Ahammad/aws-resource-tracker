@@ -1,1 +1,1 @@
-# aws-resource-tracker
+# AWS resource-usage-tracker
